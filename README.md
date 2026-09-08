@@ -62,6 +62,7 @@
 - [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first multi-agent orchestration for Claude Code.
 - [SuperClaude Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - Configuration framework with specialized commands, cognitive personas, and dev methodologies.
 - [FastMCP](https://github.com/PrefectHQ/fastmcp) - The fast, Pythonic way to build MCP servers and clients.
+- [YYLO](https://github.com/yylo-dev/yylo) - Command-line orchestrator for coding agents, repeatable workflows, and receipt-backed repository changes.
 
 ## MCP Servers
 
