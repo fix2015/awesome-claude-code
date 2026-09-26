@@ -121,6 +121,7 @@
 - [Exa MCP Server](https://github.com/exa-labs/exa-mcp-server) - Exa-powered web search and crawling MCP server.
 - [Perplexity MCP](https://github.com/perplexityai/modelcontextprotocol) - Official Perplexity API MCP server for AI-powered search.
 - [arXiv MCP Server](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv papers via MCP.
+- [Statsnet MCP](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp`.
 
 ### Security
 
