@@ -158,6 +158,8 @@
 - [Raptor](https://github.com/gadievron/raptor) - Turns Claude Code into a general-purpose AI offensive/defensive security agent.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source SEO, GEO/AEO, and paid-ads skills for Claude Code; bundles Google Search Console MCP, Google Analytics (GA4) MCP, Google Ads MCP, and Meta Ads MCP servers for live account data.
 
+- [lintlang](https://github.com/hermes-labs-ai/lintlang) - Static analysis for AI agent configs, tool descriptions, and system prompts — catches vague descriptions, missing stop conditions, and schema gaps before runtime; ships a Claude Code plugin, pre-commit hook, and GitHub Action.
+
 ## Hooks & Automation
 
 - [claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code hooks with examples and patterns.
@@ -178,6 +180,7 @@
 - [planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for long-running agentic tasks. Crash-proof markdown plans.
 - [claude-code-memory-setup](https://github.com/lucasrosati/claude-code-memory-setup) - Up to 71.5x fewer tokens per session with Obsidian + Graphify integration.
 - [claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) - Self-organizing AI second brain for Obsidian + Claude Code.
+
 
 ## CLAUDE.md Templates & Best Practices
 
