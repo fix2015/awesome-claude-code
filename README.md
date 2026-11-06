@@ -85,6 +85,7 @@
 
 ### Database & Cloud
 
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - Live data-center & energy MCP. Data Center Power Index (DCPI) scores where data centers can get grid power across 300+ markets. 94 tools, free to start. Endpoint: `https://dchub.cloud/mcp`. [Connect](https://dchub.cloud/connect?utm_source=fix2015-awesome-claude-code&utm_medium=listing&utm_campaign=directories)
 - [MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox) - Google's open-source MCP server for databases.
 - [AWS MCP Servers](https://github.com/awslabs/mcp) - Open-source MCP servers for AWS services.
 - [DBHub](https://github.com/bytebase/dbhub) - Zero-dependency, token-efficient MCP server for Postgres, MySQL, SQL Server, MariaDB, and SQLite.
